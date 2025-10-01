@@ -4,7 +4,7 @@
   "description": "An example Flow implementation",
   "main": "server.js",
   "scripts": {
-    "start": "node server_hk.js"
+    "start": "node server.js"
   },
   "author": "checkout.com",
   "license": "ISC",
